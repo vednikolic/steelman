@@ -43,6 +43,7 @@ The skill file is self-contained. It works with any LLM that can follow structur
 
 | Tool | Install |
 |------|---------|
+| ChatGPT | Paste `SKILL.md` content into a Custom GPT's instructions or a project's custom instructions |
 | Cursor | Copy `SKILL.md` content into `.cursor/rules/steelman.md` |
 | Windsurf | Copy `SKILL.md` content into `.windsurfrules` |
 | Cline / Roo | Add `SKILL.md` path to your custom instructions |

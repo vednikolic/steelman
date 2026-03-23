@@ -1,6 +1,6 @@
 ---
 name: steelman
-description: "Strengthen an idea, spec, or strategy by reinforcing weak points, reframing positioning, and finding untapped advantages. Can work standalone or against red-team output. Produces recommendations, not revisions."
+description: "Strengthen an idea, spec, or strategy by reinforcing weak points, reframing positioning, and finding untapped advantages. Can work standalone or against red-team output. Produces recommendations, not revisions. Use when strengthening proposals, fortifying specs, improving positioning, reinforcing arguments, bolstering strategies, or finding untapped advantages in any product artifact."
 argument-hint: [file path or topic] [--save] [--from-red-team]
 ---
 

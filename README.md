@@ -1,8 +1,30 @@
 # Steelman
 
-A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skill that strengthens ideas, specs, and strategies. Give it a document, and it produces concrete recommendations to reinforce weak points, reframe positioning, and find untapped advantages.
+<div align="center">
+
+<img src="https://img.shields.io/badge/LLM--agnostic-works%20with%20any%20model-gray?style=for-the-badge" />
+<img src="https://img.shields.io/badge/lenses-6%20analytical-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/eval%20score-96.55%25-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" />
+
+</div>
+
+<br />
+
+The blue-team to [Red Team](https://github.com/vednikolic/red-team)'s red-team. Give it a document, and it produces concrete recommendations to reinforce weak points, reframe positioning, and find untapped advantages.
 
 It does not rewrite your document. It offers specific suggestions you can adopt, adapt, or ignore.
+
+```
+     Red Team finds the cracks.           Steelman fills them with concrete.
+
+     +------------------+                 +------------------+
+     |  BLOCKING (2)    |                 |  Strengthened    |
+     |  HIGH (4)        |  ------------>  |  Reframed        |
+     |  MEDIUM (3)      |   --from-       |  Evidenced       |
+     |  LOW (1)         |   red-team      |  Moat expanded   |
+     +------------------+                 +------------------+
+```
 
 ## What It Does
 

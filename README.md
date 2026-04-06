@@ -41,7 +41,7 @@ Each recommendation is rated High / Medium / Low impact so you know where to foc
 
 ## Quick Start
 
-### With Claude Code
+### As a skill
 
 ```bash
 git clone https://github.com/vednikolic/steelman.git
@@ -49,7 +49,7 @@ cd steelman
 claude
 ```
 
-Claude Code automatically discovers skills in `.claude/skills/`. Then:
+Skills in `.claude/skills/` are auto-discovered. Then:
 
 ```
 /steelman path/to/your-spec.md

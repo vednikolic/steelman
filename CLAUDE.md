@@ -1,10 +1,10 @@
 # Steelman Skill
 
-Claude Code skill for strengthening ideas, specs, and strategies. Produces concrete recommendations to reinforce weak points, reframe positioning, and find untapped advantages.
+LLM skill for strengthening ideas, specs, and strategies. Produces concrete recommendations to reinforce weak points, reframe positioning, and find untapped advantages.
 
 ## Usage
 
-Invoke with `/steelman` in Claude Code. The skill is auto-discovered from `.claude/skills/steelman/SKILL.md`.
+Invoke with `/steelman`. The skill is auto-discovered from `.claude/skills/steelman/SKILL.md`.
 
 ```
 /steelman path/to/spec.md
